@@ -23,6 +23,7 @@ function syntaxhighlighter_gherkin_addlang( $brushes ) {
   $brushes['gherkin'] = 'gherkin';
   $brushes['freshen'] = 'gherkin';
   $brushes['cucumber'] = 'gherkin';
+  $brushes['lettuce'] = 'gherkin';
 
   return $brushes;
 }
