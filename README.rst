@@ -20,3 +20,8 @@ You can also use the following alias:
   1. cucumber ([sourcecode language="cucumber"][/sourcecode])
   2. freshen ([sourcecode language="freshen"][/sourcecode])
   3. lettuce ([sourcecode language="lettuce"][/sourcecode])
+
+Internationalization
+--------------------
+
+Actually this plugin supports only two languages: portuguese and english. You can freely edit the shBrushGherkin.js file and translate the highlighting to your mother tong ;)
