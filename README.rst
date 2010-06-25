@@ -24,6 +24,8 @@ You can also use the following alias:
   2. freshen ([sourcecode language="freshen"][/sourcecode])
   3. lettuce ([sourcecode language="lettuce"][/sourcecode])
 
+You can see it working (in portuguese) in this blog post: http://www.franciscosouza.com.br/2010/04/18/integrando-freshen-com-pylons/
+
 And how do I install it?
 ------------------------
 
