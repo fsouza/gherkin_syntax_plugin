@@ -27,6 +27,4 @@ function syntaxhighlighter_gherkin_addlang( $brushes ) {
 
   return $brushes;
 }
-
 ?>
-
